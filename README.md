@@ -1,8 +1,5 @@
 # spam-message-classification
 Machine Learning Classification Project using Logistic Regression and Random Forest.
-# Spam-Message-Classification
-Machine Learning Classification Project using Logistic Regression and Random Forest.
-# Spam Message Classification
 
 ## Project Overview
 
